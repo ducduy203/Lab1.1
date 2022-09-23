@@ -1,0 +1,135 @@
+/* Colors */
+.primary-color {
+    color: #ff7b2f;
+  }
+  
+  .bg-primary-color {
+    background-color: #ff7b2f;
+  }
+  
+  .primary-color-lighter {
+    color: #f6bf9f;
+  }
+  
+  .bg-primary-color-lighter {
+    background-color: #f6bf9f;
+  }
+  
+  /* Width */
+  .w-1\/3 {
+    width: 33.33%;
+  }
+  .w-1 {
+    width: 4px;
+  }
+  
+  .w-2 {
+    width: 8px;
+  }
+  .w-40 {
+    width: 160px;
+  }
+  .h12{
+    height: 48px;
+  }
+  .h90{
+    height: 360px;
+  }
+  /* Flex */
+  .flex {
+    display: flex;
+  }
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .justify-between {
+    justify-content: space-between;
+  }
+  
+  .align-center {
+    align-items: center;
+  }
+  
+  /* Spacing */
+  .width-full {
+    width: 100%;
+  }
+  
+  .p-y-8 {
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+  .p-y-6{
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  
+  .gap-16 {
+    gap: 64px;
+  }
+  
+  .pt-8{
+    padding-top: 32px;
+  }
+  .pt-15 {
+    padding-top: 60px;
+  }
+  
+  .pb-25 {
+    padding-bottom: 100px;
+  }
+
+  .pl-5{
+    padding-left: 20px;
+  }
+  .pr-5{
+    padding-right: 20px;
+  }
+  .pr-40{
+    padding-right: 160px;
+  }
+  
+  .mb-15 {
+    margin-bottom: 60px;
+  }
+  
+  /* Decorator */
+  .list-style-none {
+    list-style: none;
+  }
+  
+  /* Font */
+  .text-4 {
+    font-size: 16px;
+  }
+  .text-16 {
+    font-size: 64px;
+  }
+  
+  /* Border */
+  .border {
+    border: 1px solid;
+    border-radius: 5px;
+  }
+  
+  .border-0\.5 {
+    border: 2px solid;
+  }
+  
+  .border-primary {
+    border-color: #ff7b2f;
+  }
+  
+  .border-gray {
+    border-color: gainsboro;
+  }
+  
+  /* Align */
+  .text-center {
+    text-align: center;
+  }
+  .text-white{
+    color: white;
+  }
+  
